@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChallengeSprint01",
+    "\\ChallengeSprint01\\ChallengeSprint01",
+    "\\ChallengeSprint01\\ChallengeSprint01\\Controllers",
+    "\\ChallengeSprint01\\ChallengeSprint01\\Models",
+    "\\ChallengeSprint01\\ChallengeSprint01\\Reposytorys",
+    "\\ChallengeSprint01\\ChallengeSprint01\\Reposytorys\\implementations",
+    "\\ChallengeSprint01\\ChallengeSprint01\\Reposytorys\\Interfaces",
+    "\\ChallengeSprint01\\ChallengeSprint01\\Views",
+    "\\ChallengeSprint01\\ChallengeSprint01\\Views\\Home"
+  ],
+  "SelectedNode": "\\ChallengeSprint01\\ChallengeSprint01\\Models\\User.cs",
+  "PreviewInSolutionExplorer": false
+}
